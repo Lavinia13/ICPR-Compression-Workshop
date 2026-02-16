@@ -1,3 +1,8 @@
+|  |
+|:--:|
+| ![Workshop banner](images/Lyon.jpeg) |
+
+
 # **Workshop on *The Art of Compressing LLMs*: Pruning, Distillation, and Quantization Demystified (1st Edition)**
 
 ### **Co-located with the 28th International Conference on Pattern Recognition (ICPR 2026)**
