@@ -1,6 +1,6 @@
 |  |
 |:--:|
-| ![Workshop banner](images/Lyon.jpeg) |
+| ![Lyon](images/Lyon.jpeg) |
 
 
 # **Workshop on *The Art of Compressing LLMs*: Pruning, Distillation, and Quantization Demystified (1st Edition)**
@@ -46,7 +46,7 @@ We invite practitioners and researchers to explore a range of topics centered on
 This is a **Full-Day Workshop**.  
 The agenda is modular and includes specialized lab sessions designed to provide hands-on experience with compression implementation.
 
-*   **Workshop Dates:** August 21–22, 2026 (following the main ICPR conference)
+*   **Workshop Dates:** August 22, 2026 (following the main ICPR conference)
 *   **Format:** In-person (Lyon, France)
 
 ***
@@ -58,32 +58,33 @@ The agenda is modular and includes specialized lab sessions designed to provide 
 *   Paper Submission :  April 30, 2026
 *   Notifications to Authors :  May 31, 2026
 *   Camera Ready Papers Due : June 20, 2026
-*   Workshop Event : August 21, 2026
+*   Workshop Event : August 22, 2026
 
 ## Organisers
 
 ### Lavinia Ghita
-images/Lavinia.jpeg
+![Lavinia](images/Lavinia.jpeg)
+
 
 Lavinia is a Solutions Architect Manager at NVIDIA, leading the EMEA technical team for the Financial Services Industry (FSI). Her work focuses on large‑scale AI systems, with emphasis on distillation methods, domain‑adaptation techniques and model compression methods for efficient AI pipelines. Her research also covers foundation‑model architectures for time‑series analysis and the development of general methods for modelling structure and latent dynamics in temporal processes. Prior to NVIDIA, Lavinia worked on research and applications in this space at a quantitative hedge fund and in big tech. She holds advanced degrees in Mathematics from the École Polytechnique Fédérale de Lausanne (EPFL).
 
 ---
 
 ### Liana Mikaelyan
-images/Liana.jpeg
+![Liana](images/Liana.jpeg)
 
 Liana Mikaelyan is a Senior Solutions Architect at NVIDIA, specializing in model compression as well as training and inference for efficient deployment of LLMs. Prior to joining NVIDIA, she worked as an applied scientist at Microsoft, where she developed methods for injecting knowledge into LLMs and enabling on-device LLM capabilities. With a background in mathematics, she holds an MSc in Machine Learning from University College London.
 
 ---
 
 ### Sergio Perez
-images/Sergio.jpeg
+![Sergio](images/Sergio.jpeg)
 
 Sergio Perez is a Senior Solution Architect at NVIDIA specialised in training and inference of LLMs. He has experience both in research and industrial application of Generative AI and scientific computing, having completed his PhD at Imperial College London and worked as an AI engineer at Graphcore and Amazon. Sergio has contributed to deep learning courses in Coursera and NVIDIA's Deep Learning Institute, reaching more than 50k students worldwide.
 
 ---
 
 ### Harshita Seth
-images/Harshita.png
+![Harshita](images/Harshita.png)
 
 Harshita is a Senior Solution Architect at Nvidia, focusing on driving AI adoption among Global System Integrators. She has experience in building and deploying large language models, with a particular focus on applications in the audio domain. Prior to joining Nvidia, she was part of the Samsung Research team, where she contributed to the development of customized on-device AI applications for Samsung phones. In her current role, Harshita leverages her deep expertise to design cutting-edge AI solutions and empower partners to integrate advanced technologies seamlessly into their workflows.
