@@ -78,7 +78,7 @@ Sergio Perez is a Senior Solution Architect at NVIDIA specialised in training an
 
 ---
 
-### Harshita
+### Harshita Seth
 images/Harshita.png
 
 Harshita is a Senior Solution Architect at Nvidia, focusing on driving AI adoption among Global System Integrators. She has experience in building and deploying large language models, with a particular focus on applications in the audio domain. Prior to joining Nvidia, she was part of the Samsung Research team, where she contributed to the development of customized on-device AI applications for Samsung phones. In her current role, Harshita leverages her deep expertise to design cutting-edge AI solutions and empower partners to integrate advanced technologies seamlessly into their workflows.
