@@ -1,6 +1,6 @@
 |  |
 |:--:|
-| ![Lyon](images/Lyon.jpeg) |
+| ![Lyon](images/Lyon.png) |
 
 
 # **Workshop on *The Art of Compressing LLMs*: Pruning, Distillation, and Quantization Demystified (1st Edition)**
